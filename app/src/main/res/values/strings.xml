@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetoothlowenergy_Jun20</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+</resources>
